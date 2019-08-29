@@ -8,7 +8,7 @@
 ### Team Members
 
 |Role|Name / LinkedIn|Twitter|Github|
-|||||
+|---|---|---|---|
 |iOS Unit 1 Dev|[Jessie Griffin](https://www.linkedin.com/in/jessie-ann-griffin/)||[ThreeDayStory](https://github.com/ThreeDayStory)|
 |iOS Unit 1 Dev|Ife Banire||[IfeBan](https://github.com/IfeBan)|
 |iOS Unit 2 Dev|[Stephanie Bowles](https://www.linkedin.com/in/stephanie-bowles-a5376261/)||[sbowl001](https://github.com/sbowl001)|
