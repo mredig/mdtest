@@ -9,7 +9,7 @@
 ### Team Members
 
 |Role|Name / LinkedIn|Twitter|Github|Instagram|
-||||
+|---|---|---|---|---|
 |iOS Unit 1 Dev|[Percival Ngan](https://www.linkedin.com/in/percival-ngan-869381163/)|[@PercivalNgan](https://twitter.com/PercivalNgan)|[PercivalN](https://github.com/PercivalN)|
 |iOS Unit 1 Dev|Alexandra Rhodes|[alexcodes_io](https://twitter.com/alexcodes_io)|[alexnrhodes](https://github.com/alexnrhodes)|[alexcodes.io](https://www.instagram.com/alexcodes.io/)
 |iOS Unit 2 Dev|Jacob Connerly|[@jakeconnerly](https://twitter.com/jakeconnerly)|[jlconnerly](https://github.com/jlconnerly)|
